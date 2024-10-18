@@ -16,10 +16,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a junior Data scientist from Russia.
-- :telescope: I am currently looking for my first job.
+I am a Data Scientist from Russia. 
+- :telescope: I am currently looking for a job.
 
-- :seedling: Exploring LLM, MLOps.
+- :seedling: Exploring CV, MLOps.
 
 ---
 

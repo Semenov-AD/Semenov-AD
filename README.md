@@ -16,9 +16,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Scientist from Russia. 
+I am a Data Scientist from Russia.  
+I have been working in the field of data analysis for the past four years. Currently, I am utilizing deep learning techniques to analyze and predict potential malfunctions in radio equipment.
 - :telescope: I am currently looking for a job.
-
 - :seedling: Exploring CV, MLOps.
 
 ---
@@ -33,6 +33,18 @@ I am a Data Scientist from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Apache Spark" alt="Apache Spark" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### Portfolio  
+
+|#|         Project name     |Description|
+|-|-----------------------|-----------|
+|1|[Image Search](https://github.com/Semenov-AD/image_search)|Development of a demo version of the search for images on demand. The goal is to train a model that will receive a vector representation of the image, a vector representation of the query, and predict the correspondence of the image and the query.|
+|2|[Telecom](https://github.com/Semenov-AD/telecom)|Development of a model for predicting the outflow of telecom company customers.|
+|3|[Music Genre](https://github.com/Semenov-AD/music_genre)|Development of a model for classifying music tracks by genre.|
+
+---
 
 ### :fire: My Stats :  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Semenov-AD&theme=dark&background=000000)](https://git.io/streak-stats)
